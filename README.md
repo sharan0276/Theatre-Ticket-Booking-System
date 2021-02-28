@@ -1,9 +1,8 @@
 # Theatre-Ticket-Booking-System
 This is the set of documents that support a project on Theatre Ticket Booking System, I had developed for Object Oriented Design Lab at College.
-TEAM MEMBERS :
-1.	Shanmuga Priya M G – 18 5001 140
-2.	Sharan Giri – 18 5001 141
-3.	Srinithyee S K – 18 5001 166
+This project was done in collaboration with :
+1.	Shanmuga Priya M G 
+3.	Srinithyee S K 
 
 Statement:
 
