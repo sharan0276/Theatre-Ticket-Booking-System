@@ -1,5 +1,5 @@
 # Theatre-Ticket-Booking-System
-This is the set of documents that support a project on Theatre Ticket Booking System, I had developed for Object Oriented Design Lab at College.
+These are a set of documents that support a project on Theatre Ticket Booking System, I had developed for Object Oriented Design Lab at College.
 This project was done in collaboration with :
 1.	Shanmuga Priya M G 
 3.	Srinithyee S K 
